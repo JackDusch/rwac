@@ -7,3 +7,4 @@
 # There is currently some information about the program architecture at the following links:
 # https://github.com/JackDusch/rwac
 # https://imgur.com/a/dsYMqVY
+# https://imgur.com/gallery/QVwZHdH
